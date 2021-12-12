@@ -8,10 +8,6 @@ def calculate_distance(point_1, point_2):
     return d
 
 
-# print(calculate_distance([-2, 4], [0, 0]))
-# print(calculate_distance([5, -1], [0, 0]))
-
-
 def k_closest(points, k):
     origin = [0, 0]
     for i in range(k):
