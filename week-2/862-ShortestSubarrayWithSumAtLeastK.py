@@ -3,43 +3,27 @@ from collections import deque
 
 def shortest_subarray(nums, k):
     queue = deque()
-    shortest_subarray_length = len(nums) + 1
-    total = 0
+    answer = float('inf')
+
+    prefix_sum = [0] * (len(nums) + 1)
 
     for i in range(len(nums)):
         if nums[i] >= k:
             return 1
+        prefix_sum[i + 1] = prefix_sum[i] + nums[i]
 
-        queue.append(nums[i])
-        total += nums[i]
+    for i in range(len(prefix_sum)):
+        while queue and prefix_sum[i] <= prefix_sum[queue[-1]]:
+            queue.pop()
 
-        while queue and queue[0] < 0:
-            total -= queue[0]
-            queue.popleft()
+        queue.append(i)
 
-        if total >= k:
-            shortest_subarray_length = min(
-                shortest_subarray_length, len(queue))
+        while queue and (prefix_sum[i] - prefix_sum[queue[0]] >= k):
+            answer = min(answer, i - queue.popleft())
 
-            j = (i + 1) - len(queue)
-
-            while j < i:
-                total -= queue[0]
-                queue.popleft()
-
-                if total >= k:
-                    shortest_subarray_length = min(
-                        shortest_subarray_length, len(queue))
-
-                j += 1
-
-        if total < 0:
-            total = 0
-            queue.clear()
-
-    if shortest_subarray_length == len(nums) + 1:
+    if answer == float('inf'):
         return -1
-    return shortest_subarray_length
+    return answer
 
 
 nums = [-28, 81, -20, 28, -29]
