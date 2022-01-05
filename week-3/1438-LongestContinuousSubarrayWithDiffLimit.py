@@ -28,5 +28,3 @@ class Solution:
                     max_queue.popleft()
 
         return longest
-
-# 320min
