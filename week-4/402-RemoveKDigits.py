@@ -32,5 +32,3 @@ num = "22345"
 k = 2
 
 print(removeKdigits(num, k))
-
-# 120min

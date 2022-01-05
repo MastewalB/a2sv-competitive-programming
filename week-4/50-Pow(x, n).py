@@ -13,5 +13,3 @@ class Solution:
         if n % 2 == 0:
             return y * y
         return x * y * y
-
-# 60min

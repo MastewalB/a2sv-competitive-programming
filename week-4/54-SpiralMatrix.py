@@ -21,5 +21,3 @@ def spiralOrder(matrix):
         processed += 1
 
     return output
-
-# 110min
