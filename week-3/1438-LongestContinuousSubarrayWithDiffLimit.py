@@ -1,55 +1,32 @@
-from collections import deque
-import heapq
+class Solution:
+    def longestSubarray(self, nums: List[int], limit: int) -> int:
+        min_queue = Deque()  # decreasing queue
+        max_queue = Deque()  # increasing queue
 
+        longest = 0
+        left = 0
+        right = 0
 
-def longest_subarray(nums, limit):
-    queue = deque()
-    longest = 0
+        while right < len(nums):
 
-    queue.append(nums[0])
-    heap = list(queue)
-    heapq.heapify(heap)
-    longest += 1
+            while min_queue and nums[min_queue[-1]] <= nums[right]:
+                min_queue.pop()
+            min_queue.append(right)
 
-    i = 1
-    j = 0
-    max_difference = 0
-    while i < len(nums):
-        if heap and abs(nums[i] - heap[0]) > limit:
-            while queue and queue[0] != heap[0]:
-                queue.popleft()
-                j += 1
-            while queue and queue[0] == heap[0]:
-                queue.popleft()
-                j += 1
-        if heap and abs(nums[i] - (heap[0] + max_difference)) > limit:
-            while queue and queue[0] != (heap[0] + max_difference):
-                queue.popleft()
-                j += 1
-            while queue and queue[0] == (heap[0] + max_difference):
-                queue.popleft()
-                j += 1
+            while max_queue and nums[max_queue[-1]] >= nums[right]:
+                max_queue.pop()
+            max_queue.append(right)
 
-        else:
-            if heap:
-                max_difference = max(max_difference, abs(nums[i] - heap[0]))
-            queue.append(nums[i])
-            longest = max(longest, len(queue))
-            i += 1
-        print(queue, max_difference)
+            if abs(nums[min_queue[0]] - nums[max_queue[0]]) <= limit:
+                longest = max(longest, (right - left) + 1)
+                right += 1
+            else:
+                left += 1
+                if left > min_queue[0]:
+                    min_queue.popleft()
+                if left > max_queue[0]:
+                    max_queue.popleft()
 
-        heap = list(queue)
-        heapq.heapify(heap)
+        return longest
 
-    return longest
-
-
-nums = [4, 2, 2, 2, 4, 4, 2, 2]
-limit = 0
-nums = [10, 1, 2, 4, 7, 2]
-limit = 5
-nums = [1, 5, 6, 7, 8, 10, 6, 5, 6]
-limit = 4
-
-
-print(longest_subarray(nums, limit))
+# 320min
