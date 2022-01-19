@@ -32,6 +32,6 @@ class Solution:
                 temp = temp.next
 
         if carry == 1:
-            temp.next = ListNode(add)
+            temp.next = ListNode(carry)
 
         return answer.next
