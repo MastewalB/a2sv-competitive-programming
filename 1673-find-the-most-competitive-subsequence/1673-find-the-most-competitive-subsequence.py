@@ -8,9 +8,7 @@ class Solution:
             
             while stack and stack[-1] > nums[i] and len(stack) + N - i > k:
                 stack.pop()
-            
-            stack.append(nums[i])
-            if len(stack) == k:
-                ans = stack[::]
+            if len(stack) < k:
+                stack.append(nums[i])
         
-        return ans
+        return stack
