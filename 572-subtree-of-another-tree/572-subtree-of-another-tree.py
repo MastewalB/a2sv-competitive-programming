@@ -6,21 +6,18 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
+        if not root:
+            return False
         
-        @lru_cache(None)
         def dfs(root, sRoot):
-            
+                
             if not root and not sRoot:
                 return True
             if not root or not sRoot:
                 return False
             
-            identical = False
-            
-            if root.val == sRoot.val:
-                identical = dfs(root.left, sRoot.left) and dfs(root.right, sRoot.right)
-            
-            return dfs(root.left, subRoot) or dfs(root.right, subRoot) or identical
-                
-            
-        return dfs(root, subRoot)
+            return root.val == sRoot.val and dfs(root.left, sRoot.left) and dfs(root.right, sRoot.right)
+        
+                    
+        
+        return dfs(root, subRoot) or self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
