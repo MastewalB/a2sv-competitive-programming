@@ -6,18 +6,11 @@
 #         self.right = right
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
-        if not root:
-            return False
         
-        def dfs(root, sRoot):
-                
-            if not root and not sRoot:
-                return True
-            if not root or not sRoot:
-                return False
+        def preOrder(root):
+            if not root:
+                return "#"
             
-            return root.val == sRoot.val and dfs(root.left, sRoot.left) and dfs(root.right, sRoot.right)
+            return "," + str(root.val) + preOrder(root.left) + preOrder(root.right)
         
-                    
-        
-        return dfs(root, subRoot) or self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
+        return preOrder(subRoot) in preOrder(root)
