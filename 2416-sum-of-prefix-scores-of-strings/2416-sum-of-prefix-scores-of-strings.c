@@ -1,56 +1,41 @@
-#define CHAR_SIZE 26
-
-typedef struct{
-    bool isLeaf;
-    struct Trie * children[CHAR_SIZE];
-    int visitedCount;
-} Trie;
-
-Trie * trieCreate(){
-    Trie * trieNode = (Trie *)malloc(sizeof(Trie));
-    trieNode->isLeaf = false;
-    trieNode->visitedCount = 0;
-    for(int i = 0; i < CHAR_SIZE; i++)
-        trieNode->children[i] = NULL;
-    return trieNode;
-}
-
-void trieInsert(Trie * trieNode, char * word){
-    Trie * currNode = trieNode;
-    while(*word){
-        if(currNode->children[*word - 'a'] == NULL)
-            currNode->children[*word - 'a'] = trieCreate();
-        currNode = currNode->children[*word - 'a'];
-        currNode->visitedCount++;
-        word++;
-    }
-    currNode->isLeaf = true;
-}
-
-
-/**
- * Note: The returned array must be malloced, assume caller calls free().
- */
-int* sumPrefixScores(char ** words, int wordsSize, int* returnSize){
-    *returnSize = wordsSize;
-    int * response = (int *)malloc(wordsSize * sizeof(int));
-    Trie * trie = trieCreate();
+class Trie:
+    def __init__(self):
+        CHAR_SIZE = 26
+        self.isLeaf = False
+        self.visited = 0
+        self.index = []
+        self.children = [None] * CHAR_SIZE
+        
+    def insert(self, word, pos):
+        curr = self
+        for i in range(len(word)):
+            index = ord(word[i]) - ord('a')
+            if not curr.children[index]:
+                curr.children[index] = Trie()
+            curr = curr.children[index]
+            curr.visited += 1
+        curr.isLeaf = True 
+        curr.index.append(pos)
     
-    for(int i = 0; i < wordsSize; i++){
-        trieInsert(trie, words[i]);
-    }
-    
-    for(int i = 0; i < wordsSize; i++){
-        Trie * currNode = trie;
-        int total = 0;
-        while(*words[i]){
-            currNode = currNode->children[*words[i] - 'a'];
-            total += currNode->visitedCount;
-            *words[i]++;
-        }
-        response[i] = total;
-    }
-    
-    return response;
-
-}
+class Solution:
+    def sumPrefixScores(self, words: List[str]) -> List[int]:
+        trie = Trie()
+        res = [None] * len(words)
+        
+        for i in range(len(words)):
+            trie.insert(words[i], i)
+        
+        for i in range(len(words)):
+            if not res[i]:
+                word = words[i]
+                curr = trie
+                total = 0
+                for j in range(len(word)):
+                    index = ord(word[j]) - ord('a')
+                    curr = curr.children[index]
+                    total += curr.visited
+                    if curr.isLeaf:
+                        for k in curr.index:
+                            res[k] = total
+        
+        return res
