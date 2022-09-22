@@ -18,10 +18,8 @@ char * shiftingLetters(char * s, int** shifts, int shiftsSize, int* shiftsColSiz
         if(i > 0)
             sweep[i] += sweep[i - 1];
         int curr = ((s[i] - 'a') + sweep[i]) % 26;
-        char old = s[i];
         s[i] = (curr >= 0) ? 97 + curr : 123 + curr;
-        // if(i > 420)
-        //     printf("  %d %c %c %d", sweep[i], old, s[i], curr);
+        
     }
     
     return s;
