@@ -1,8 +1,10 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        S = [[]]
-        for num in nums:
-            size = len(S)
-            for i in range(size):
-                S.append(S[i] + [num])
+        S = []
+        for seq in range(1 << len(nums)):
+            sub = []
+            for i in range(len(nums)):
+                if seq & (1 << i):
+                    sub.append(nums[i])
+            S.append(sub)
         return S
