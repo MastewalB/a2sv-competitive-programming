@@ -1,26 +1,36 @@
 class Solution:
     def removeInvalidParentheses(self, s: str) -> List[str]:
-
-        min_removed = len(s)
-        A = set()
         
-        def rip(index, count, possible, r):
-            nonlocal min_removed
-            
-            if r > min_removed or count < 0:
-                return 
-            
-            if index == len(s):
-                if count == 0:
-                    min_removed = min(min_removed, r)
-                    A.add(possible)
-                return
-                        
-            if s[index] in ["(", ")"]:
-                rip(index + 1, count + 1 if s[index] == "(" else count - 1, possible + s[index], r)
-                rip(index + 1, count, possible, r + 1)
-            else:
-                rip(index + 1, count, possible + s[index], r)
+        def check(s):
+            count = 0
+            for c in s:
+                if count < 0:
+                    return False
+                if c == "(":
+                    count += 1 
+                elif c == ")":
+                    count -= 1
+            return count == 0
         
-        rip(0, 0, "", 0)
-        return A
+        if check(s):
+            return [s]
+        queue = deque([s])
+        visited = set([s])
+        res = set()
+        found = False
+        
+        while queue:
+            s = queue.popleft()
+            
+            if check(s):
+                res.add(s)
+                found = True
+            
+            if not found:
+                for i in range(len(s)):
+                    if s[i] in ["(",")"]:
+                        t = s[:i] + s[i + 1:]
+                        if t not in visited:
+                            visited.add(t)
+                            queue.append(t)
+        return res
