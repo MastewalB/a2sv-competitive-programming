@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3427-special-array-ii) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Counting
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3427-special-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
 <!---LeetCode Topics End-->
