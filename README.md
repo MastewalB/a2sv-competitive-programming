@@ -62,6 +62,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
