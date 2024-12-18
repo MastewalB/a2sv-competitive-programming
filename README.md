@@ -7,6 +7,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0217-contains-duplicate) |
+| [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -70,6 +71,7 @@
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0151-reverse-words-in-a-string) |
+| [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
