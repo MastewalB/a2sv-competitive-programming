@@ -18,6 +18,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@
 | [0008-string-to-integer-atoi](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0726-number-of-atoms](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0726-number-of-atoms) |
 ## Stack
 |  |
