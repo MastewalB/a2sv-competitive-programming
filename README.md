@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0726-number-of-atoms) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
