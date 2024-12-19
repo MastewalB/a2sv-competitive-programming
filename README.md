@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0217-contains-duplicate) |
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
