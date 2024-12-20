@@ -4,7 +4,7 @@ func wordBreak(s string, wordDict []string) bool {
 		dict  = map[string]bool{}
 		cache = map[int]bool{}
 	)
-    
+
     for _,v := range wordDict { dict[v] = true }
 
     dp = func(start int) bool {
@@ -14,7 +14,8 @@ func wordBreak(s string, wordDict []string) bool {
         ends := false
         for i := start; i < len(s); i++ {
             if _, ok := dict[s[start:i + 1]]; ok {
-                ends = ends || dp(i + 1) 
+                ends = ends || dp(i + 1)
+                if ends { break }
             }
         }
         cache[start] = ends
