@@ -7,6 +7,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0217-contains-duplicate) |
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0726-number-of-atoms](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0726-number-of-atoms) |
@@ -77,6 +79,7 @@
 | [0008-string-to-integer-atoi](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
@@ -105,5 +108,14 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
