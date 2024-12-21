@@ -114,6 +114,7 @@
 | ------- |
 | [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0386-lexicographical-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 ## Dynamic Programming
 |  |
@@ -125,4 +126,8 @@
 | ------- |
 | [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0140-word-break-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
