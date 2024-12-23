@@ -130,4 +130,17 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0386-lexicographical-numbers) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->
