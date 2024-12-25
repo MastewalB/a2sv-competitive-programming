@@ -14,6 +14,7 @@
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3427-special-array-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3427-special-array-ii) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
@@ -150,4 +152,8 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+## Math
+|  |
+| ------- |
+| [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 <!---LeetCode Topics End-->
