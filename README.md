@@ -13,6 +13,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
