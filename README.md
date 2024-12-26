@@ -18,6 +18,7 @@
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3429-special-array-i) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -33,6 +34,7 @@
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
@@ -96,6 +98,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Linked List
 |  |
 | ------- |
@@ -104,6 +107,7 @@
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
 | ------- |
@@ -158,4 +162,16 @@
 |  |
 | ------- |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
