@@ -2,7 +2,7 @@ func minimumDiameterAfterMerge(edges1 [][]int, edges2 [][]int) int {
     m, n := len(edges1), len(edges2)
     d1, d2 := getDiameter(edges1), getDiameter(edges2)
     
-    halfD1, halfD2 := ((d1 - 1) / 2) + 1, ((d2 - 1) / 2) + 1
+    halfD1, halfD2 := (d1 + 1) / 2, (d2 + 1) / 2
     
     if m == 0 || n == 0 {
         if m == 0 && n == 0 { return 1 }
