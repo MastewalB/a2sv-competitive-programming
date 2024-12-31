@@ -70,6 +70,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
@@ -166,6 +167,7 @@
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0670-maximum-swap) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 ## Binary Indexed Tree
 |  |
