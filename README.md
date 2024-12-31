@@ -13,6 +13,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0140-word-break-ii) |
+| [1025-minimum-cost-for-tickets](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1063-best-sightseeing-pair) |
 ## Memoization
 |  |
