@@ -10,6 +10,7 @@
 | [0139-word-break](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0140-word-break-ii) |
 | [0217-contains-duplicate](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0217-contains-duplicate) |
+| [0321-create-maximum-number](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0321-create-maximum-number) |
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
@@ -30,6 +31,7 @@
 | [0061-rotate-list](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0151-reverse-words-in-a-string) |
+| [0321-create-maximum-number](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0321-create-maximum-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -71,6 +73,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0321-create-maximum-number) |
 | [0670-maximum-swap](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -99,6 +102,7 @@
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0321-create-maximum-number) |
 | [0726-number-of-atoms](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -109,6 +113,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0321-create-maximum-number) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
