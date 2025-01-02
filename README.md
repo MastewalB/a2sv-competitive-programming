@@ -32,6 +32,7 @@
 | [0125-valid-palindrome](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0151-reverse-words-in-a-string) |
 | [0321-create-maximum-number](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0321-create-maximum-number) |
+| [1880-largest-merge-of-two-strings](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -76,6 +77,7 @@
 | [0321-create-maximum-number](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0321-create-maximum-number) |
 | [0670-maximum-swap](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0780-max-chunks-to-make-sorted) |
+| [1880-largest-merge-of-two-strings](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -99,6 +101,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/0726-number-of-atoms) |
+| [1880-largest-merge-of-two-strings](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1880-largest-merge-of-two-strings) |
 ## Stack
 |  |
 | ------- |
