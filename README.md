@@ -17,6 +17,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1063-best-sightseeing-pair) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2358-number-of-ways-to-split-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2358-number-of-ways-to-split-array) |
 | [2388-replace-elements-in-an-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2388-replace-elements-in-an-array) |
 | [2450-minimum-replacements-to-sort-the-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2450-minimum-replacements-to-sort-the-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -84,6 +85,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2358-number-of-ways-to-split-array](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/MastewalB/a2sv-competitive-programming/tree/master/3427-special-array-ii) |
 ## Simulation
 |  |
